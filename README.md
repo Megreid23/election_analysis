@@ -7,7 +7,7 @@ In this election audit, we have calculated the data showing the number of votes 
 * The total votes cast in this election was 369,711
 * The county with the largest turnout was Denver, with 82.8% of the total and 306,055 votes. Jefferson's turnout was equal to 10.5% and 38,855 votes, with Arapahoe at 6.7% with 24,801 votes.
 * The winner of the election was Diana DeGette, at 73.8% and 272,892 votes. Charles Casper Stockham was runner-up at 23% wit 85,213 votes and Raymon Anthony Doane at 3.1% with 11,606 votes in last place.
-![Election_Audit](Election_Audit.png)
+![Images/Election_Audit](Election_Audit.png)
 
 ## Election Audit Summary
 
